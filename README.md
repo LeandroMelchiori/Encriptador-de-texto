@@ -32,4 +32,4 @@ El proyecto está organizado de la siguiente manera:
 - **index.html:** Estructura HTML de la aplicación.
 - **styles.css:** Estilos CSS para el diseño y presentación de la página.
 - **script.js:** Lógica JavaScript que maneja la encriptación, desencriptación, y otras interacciones de la aplicación.
-- **images/**: Carpeta que contiene las imágenes utilizadas en la página, incluyendo la imagen de fondo.
+- **images/**: Carpeta que contiene las imágenes utilizadas en la página.
