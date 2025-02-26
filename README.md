@@ -7,8 +7,11 @@
 ## 🚀 Funcionalidades
 
 ✅ **Encriptar Texto:** Convierte un texto ingresado por el usuario en su versión encriptada.
+
 ✅ **Desencriptar Texto:** Convierte un texto encriptado de vuelta a su forma original.
+
 ✅ **Copiar Texto:** Opción para copiar el texto encriptado o desencriptado al portapapeles con un solo clic.
+
 ✅ **Validación de Entrada:** Funciona solo con letras minúsculas, sin soportar letras con acentos ni caracteres especiales.
 
 ## 🔑 Llaves de Encriptación
