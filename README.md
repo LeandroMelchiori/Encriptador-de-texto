@@ -23,7 +23,7 @@ El proceso de encriptación se realiza mediante la sustitución de vocales en el
 | o     | ober            |
 | u     | ufat            |
 
-📌 Ejemplo:
+### 📌 Ejemplo:
 - Texto original: `gato`
 - Texto encriptado: `gaitober`
 
